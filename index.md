@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is David Solano and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) with a major in Computer Science with a minor in economics.
+This is my home page! My name is David Solano and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) with a major in Computer Science with a minor in Economics.
 
 ## Computer Science Projects
 
