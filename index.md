@@ -11,7 +11,7 @@ My GitHub page is http://github.com/DavidJSolano.
 * Lab 2
 
     Lab 2 was one of my favorite labs because it provided me crucial insight into utilizing Git/Github. Through this lab, I became knowlegable of the essential commands of git clone, add, and push. Aside from learning Git, I honed my C++ syntax in lab 2 part 1, in which we were required to debug the program so that it was readable to humans and machines. During lab 2 part 3, I successfully wrote, ran, and compiled my first-ever program that printed “Hello World!” which left me with an exhilarating feeling!
-    ![Hello world compiling and being run!](images/Part2.gif)
+    ![Hello world compiling and being run!](images/Part2)
 
 * Lab 7
 
